@@ -1,0 +1,5 @@
+data/*
+!data/dapp_offchain_flags.csv
+!data/governance_monthly.csv
+!data/dapp_offchain_by_k.csv
+*.log
